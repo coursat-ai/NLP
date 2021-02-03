@@ -31,6 +31,8 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
   - [Pre-trained word vectors](https://colab.research.google.com/drive/1pzfmjWjTCmnBSR0He7LP2LXyWYTvMhL1?usp=sharing#scrollTo=T216wAtyQiv6#scrollTo=FZlGYYf4QkLa)
 
 - __Lecture 4__: Recommender Systems with DL
+  - [video](https://www.youtube.com/watch?v=RuWazWO9Ork)
+  
   - [Full Code](https://colab.research.google.com/drive/1gKmqbo9Wr7Np4Ll0S9cMiOpPZ_ZvOx6t?usp=sharing)
 
   - [Simple Recommender System for MovieLens/IMDB](https://colab.research.google.com/drive/1gKmqbo9Wr7Np4Ll0S9cMiOpPZ_ZvOx6t?usp=sharing#scrollTo=YtsiQwSYjXu1)
@@ -57,6 +59,8 @@ This repo collects the material of [Coursat.ai](http://coursatai.s3-website-us-e
   - [CNN-LSTM-IMDB Raw dataset](https://colab.research.google.com/drive/17iOxqMW-MT36RCLm7N31smxylk9buAGK?usp=sharing)
 
 - __Lecture 6__: Sequence-to-Sequence models in NLP    
+  - [video](https://youtu.be/N-NOJ0__msM)
+  
   - [Vanilla seq2seq with LSTM in Keras on Neural Machine Translations (NMT)](https://colab.research.google.com/drive/1dhlc3Nt_LvZcxY5tUd-XLU1fvGt4pPuh?usp=sharing)
 
   - [NMT seq2seq + Bahdanau Attention in TensorFlow2](https://colab.research.google.com/drive/1Z3dpHKtejFhz3Pcl9G7nKdl4ZjbI_85a?usp=sharing)
